@@ -37,7 +37,7 @@
 <p align="center">
 <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-<a href="#"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white height='20' width='93px'"></a>
+<a href="#"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style{{height='20px' width='93px'}}></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
@@ -46,7 +46,7 @@
 <h4 align="center"> Software</h4>
 
 <p align="center">
-<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white height='20' width='93px'" ></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" style{{height='20px' width='93px'}}></a>
 <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_Idea-fd2859.svg?logo=intellij-idea&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-a838d7.svg?logo=visual-studio&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
