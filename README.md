@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm mjnizac</h1>
-<h3 align="center">A passionate developer from Spain 🇪🇸</h3>
+<h3 align="center">A passionate developer from Spain </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mjnizac&color=blue"/> 
@@ -10,11 +10,12 @@
 <img align='right' src="https://octodex.github.com/images/octonaut.jpg" width='16%'>
 
 
-* 👂 `My name is`: **Manuel Jesús**,
-* 👩 `Pronouns`: **He/His**,
+* 👋 `My name is`: **Manuel Jesús**,
+* 🙋‍♂️ `Pronouns`: **He/His**,
 * ⚡ `I'm`: **25 years old**,
-* 🌱 `I’m currently learning`: **Java**,
-* ❤️ `I love`: **Low-Level Programming**  ,
+* 🔊 `I speak`: **Spanish and English**,
+* 📊 `I’m currently learning`: **Java**,
+* ❤️ `I love`: **Low-Level Programming**,
 * 💻 `Favorite languages`: **Java, & Javascript**
 
 
