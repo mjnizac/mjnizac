@@ -7,7 +7,7 @@
 
 <hr/>
 
-<img align='right' src="https://octodex.github.com/images/octonaut.jpg" width='16%'>
+<img align='right' src="https://octodex.github.com/images/octonaut.jpg" width='20%'>
 
 
 * 👋 `My name is`: **Manuel Jesús**,
