@@ -7,7 +7,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/labdtocat.png' width='25%'>  
+<img align='right' src="https://octodex.github.com/images/octonaut.jpg" width='25%'>  
 
 * 👂 `My name is`: **Manuel Jesús**,
 * 👩 `Pronouns`: **He/His**,
@@ -44,7 +44,7 @@
 <h4 align="center"> Software</h4>
 
 <p align="center">
-<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo&Eclipse=logoColor=white"></a>
+<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"></a>
 <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_Idea-fd2859.svg?logo=intellij-idea&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-a838d7.svg?logo=visual-studio&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
