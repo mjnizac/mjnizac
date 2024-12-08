@@ -22,6 +22,8 @@
 
 <hr/>
 
+<h2 align="center">📊 My Skills</h2>
+
 <h4 align="center">💻 Programming languages</h4>
 
 <p align="center">
@@ -45,7 +47,7 @@
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 </p>
 
-<h4 align="center"> Software</h4>
+<h4 align="center">🖥️ Software</h4>
 
 <p align="center">
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" style{{height='20px' width='100px'}}></a>
@@ -57,7 +59,7 @@
 <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-16161D?logo=obsidian&logoColor=white"></a>
 </p>
 
-<h4 align="center"> Database</h4>
+<h4 align="center">📦 Database</h4>
 
 <p align="center">
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
