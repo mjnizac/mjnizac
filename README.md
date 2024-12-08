@@ -7,14 +7,13 @@
 
 <hr/>
 
-<img align='right' src="https://octodex.github.com/images/octonaut.jpg" width='25%'>  
-
 * 👂 `My name is`: **Manuel Jesús**,
 * 👩 `Pronouns`: **He/His**,
 * ⚡ `I'm`: **25 years old**,
 * 🌱 `I’m currently learning`: **Java**,
 * ❤️ `I love`: **Low-Level Programming**  ,
 * 💻 `Favorite languages`: **Java, & Javascript**
+<img align='right' src="https://octodex.github.com/images/octonaut.jpg" width='25%'>
 
 <br/>
 
