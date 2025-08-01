@@ -12,7 +12,7 @@
 
 * 👋 `My name is`: **Manuel Jesús**,
 * 🙋‍♂️ `Pronouns`: **He/His**,
-* ⚡ `I'm`: **25 years old**,
+* ⚡ `I'm`: **26 years old**,
 * 🔊 `I speak`: **Spanish and English**,
 * 📊 `I’m currently learning`: **Java**,
 * ❤️ `I love`: **Low-Level Programming**,
